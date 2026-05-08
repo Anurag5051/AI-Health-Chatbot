@@ -1,4 +1,4 @@
-# AI Health Chatbot
+# RAG-Based AI Health Chatbot
 
 An intelligent chatbot application that allows users to upload medical PDF documents and ask questions about their content using advanced AI and natural language processing.
 
